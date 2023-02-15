@@ -1,0 +1,27 @@
+body{
+	font-family: Comic Sans MS;
+	border: solid;
+	border-width: 2px;
+}
+
+div{
+    border: solid;
+	border-width: 2px;
+}
+span.class{
+	font-style: italic;
+}
+.id{
+	background: yellow;
+	border: solid;
+	border-width: 2px;
+}
+.class.id{
+	margin-right: 350px;
+}
+div.H{
+	align-content: center;
+	border: solid;
+	border-width: 2px;
+
+}

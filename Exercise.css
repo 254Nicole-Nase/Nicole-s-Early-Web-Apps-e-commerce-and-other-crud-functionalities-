@@ -1,0 +1,12 @@
+h1 {
+ border: solid;
+}
+h2 {
+	border: solid;
+	padding: 20px;
+	margin: 100px;
+}
+p {
+	border: solid;
+	padding: 10px;
+}

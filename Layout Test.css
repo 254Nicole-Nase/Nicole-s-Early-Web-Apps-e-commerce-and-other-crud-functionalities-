@@ -1,0 +1,52 @@
+h1{
+	border: solid;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+h1 button{
+	text-align: center;
+}
+nav ul {
+  list-style-type: none;
+  
+  padding: 0;
+  overflow: hidden;
+  border: solid;
+
+}
+
+nav li {
+  float: left;
+  display: block;
+  text-align: right;
+  padding: 14px 16px;
+}
+
+article  p {
+	text-align: center;
+	border: solid;
+
+}
+article table p{
+	border: solid;
+}
+
+div article {
+	border: solid;
+}
+div h2 image{
+	width: 100%;
+}
+div h2 + p {
+	text-align: center;
+}
+footer, table, th, td {
+  border: 1px solid;
+}
+ table{
+	width: 100%;
+}
+table li {
+	list-style-type: none;
+}
